@@ -24,3 +24,5 @@ Simple EFI Folder To Install Mac OS with RX 6600 GPU
 - BIOS revision: F13
 
 ![amd-radeon-rx6600-i5-11400-on-sonoma-14-2-open-core-v0-plke0xg4q7sc1](https://github.com/user-attachments/assets/f34479f4-8e83-4c8d-81c9-4ee2df00c3c3)
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=jenis-sanghani&label=Profile%20views&color=0e75b6&style=flat" alt="jenis-sanghani" /> </p>
